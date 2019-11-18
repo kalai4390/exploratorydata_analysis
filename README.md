@@ -9,9 +9,9 @@ The overall goal is to explore the National Emissions Inventory database and see
 
 The Questions addressed in this repo include
 
-Have total emissions from PM_{2.5} decreased in the United States from 1999 to 2008?
+1. Have total emissions from PM_{2.5} decreased in the United States from 1999 to 2008?  
 
-Have total emissions from PM_{2.5} decreased in the Baltimore City, Maryland from 1999 to 2008?
+2. Have total emissions from PM_{2.5} decreased in the Baltimore City, Maryland from 1999 to 2008? 
 
 Of the four types of sources indicated by the =type= (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999-2008 for Baltimore City? Which have seen increases in emissions from 1999-2008?
 
